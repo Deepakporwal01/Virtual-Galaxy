@@ -1,0 +1,33 @@
+.main-faq{
+    background-color: black;
+    height: 100%;
+
+}
+
+.Faqs{
+display: flex;
+justify-content:   space-between;
+gap: 10rem;
+align-items: center;
+ 
+
+}
+.line{
+    height: 1.5px;
+    width: 61rem;
+    background-color:  white;
+    margin-left: 50px;
+}
+.p-font{
+    font-size: 22px;
+    color: white;
+    margin-left: 3rem;
+}
+.h-font{
+    font-size: 28px;
+    color:#dbdbdb;
+    margin-left: 3rem;
+}
+.faq-btn{
+    margin-right: 4rem;
+}

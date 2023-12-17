@@ -1,0 +1,46 @@
+.main-login{
+ 
+    
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    
+}
+.login-m{
+    height: 100%;
+    width: 32vw;
+   background-color: #7f8287;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    gap: 1rem;
+    margin-top: 8rem;
+   flex-direction: column;
+   border-radius: 30px;
+   opacity: 0.9;
+
+}
+.input-m{
+    width: 18rem;
+    height: 2.5rem;
+    border-radius: 2rem;
+    border: none;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.button-m{
+    width: 18rem;
+    height: 2.5rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: #4e4e4e;
+    color: #9a9a9a;
+    margin-left: 10px;
+}
+.label-m{
+    color: black;
+    font-weight: 300;
+    font-size: large;
+}

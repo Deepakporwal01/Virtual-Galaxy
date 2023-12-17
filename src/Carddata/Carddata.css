@@ -1,0 +1,23 @@
+.card-data{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    background-color: black;
+    margin-top: 5rem;
+        margin-bottom: 5rem;
+    height: 100%;
+        
+        
+        
+     
+        
+    
+         
+        
+        
+     
+        
+    
+}

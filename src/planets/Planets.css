@@ -1,0 +1,10 @@
+.nav-planet-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    gap: 8rem;
+}
+a{
+    font-size: 18px;
+}

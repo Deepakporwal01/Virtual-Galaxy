@@ -1,0 +1,40 @@
+.signup-containt{
+    height: 
+    100%;
+    width: 62vw;
+    background-color: #676a70;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
+     margin-top: 7rem;
+     margin-bottom: 7rem;
+     border-radius: 50px;
+    opacity: 0.9;
+  
+}
+.signup-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+     
+    
+}
+.signup-input{
+    display: flex;
+     
+    height: 2.5rem;
+    width: 18rem;
+    border-radius: 40px;
+    border: black;
+    padding-left: 10px;
+}
+.signup-label{
+    display: flex;
+    gap:  275px;
+}
+.signup-div{
+    display: flex;
+    gap:2rem;
+}
